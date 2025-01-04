@@ -24,7 +24,7 @@ Info: Information of Traffic Instance
 
 Dataset Usages : This dataset can be used for different machine learning applications in the field of cybersecurity such as classification of Network traffic,Network performance monitoring,Network Security Management , Network Traffic Management ,network intrusion detection and anomaly detection.
 
-ML techniques benefits from this Dataset :
+## ML techniques benefits from this Dataset :
 
 This dataset is highly useful because it consists of 394137 instances of network traffic data obtained by using the 25 applications on a public,private and Enterprise networks.Also,the dataset consists of very important features that can be used for most of the applications of Machine learning in cybersecurity.Here are few of the potential machine learning applications that could be benefited from this dataset are :
 
