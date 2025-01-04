@@ -1,17 +1,17 @@
 # anomaly-detection
-Context
+##Context :
 
 The data presented here was obtained in a Kali Machine from University of Cincinnati,Cincinnati,OHIO by carrying out packet captures for 1 hour during the evening on Oct 9th,2023 using Wireshark.This dataset consists of 394137 instances were obtained and stored in a CSV (Comma Separated Values) file.This large dataset could be used utilised for different machine learning applications for instance classification of Network traffic,Network performance monitoring,Network Security Management , Network Traffic Management ,network intrusion detection and anomaly detection.
 
 The dataset can be used for a variety of machine learning tasks, such as network intrusion detection, traffic classification, and anomaly detection.
 
-Content :
+##Content :
 
 This network traffic dataset consists of 7 features.Each instance contains the information of source and destination IP addresses, The majority of the properties are numeric in nature, however there are also nominal and date kinds due to the Timestamp.
 
 The network traffic flow statistics (No. Time Source Destination Protocol Length Info) were obtained using Wireshark (https://www.wireshark.org/).
 
-Dataset Columns:
+##Dataset Columns:
 
 No : Number of Instance.
 Timestamp : Timestamp of instance of network traffic
@@ -21,7 +21,7 @@ Portocol: Protocol used by the instance
 Length: Length of Instance
 Info: Information of Traffic Instance
 
-Acknowledgements :
+##Acknowledgements :
 
 I would like thank University of Cincinnati for giving the infrastructure for generation of network traffic data set.
 
