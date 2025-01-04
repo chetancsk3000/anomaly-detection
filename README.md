@@ -21,15 +21,6 @@ Portocol: Protocol used by the instance
 Length: Length of Instance
 Info: Information of Traffic Instance
 
-## Acknowledgements :
-
-I would like thank University of Cincinnati for giving the infrastructure for generation of network traffic data set.
-
-Ravikumar Gattu , Susmitha Choppadandi
-
-Inspiration : This dataset goes beyond the majority of network traffic classification datasets, which only identify the type of application (WWW, DNS, ICMP,ARP,RARP) that an IP flow contains. Instead, it generates machine learning models that can identify specific applications (like Tiktok,Wikipedia,Instagram,Youtube,Websites,Blogs etc.) from IP flow statistics (there are currently 25 applications in total).
-
-**Dataset License: ** CC0: Public Domain
 
 Dataset Usages : This dataset can be used for different machine learning applications in the field of cybersecurity such as classification of Network traffic,Network performance monitoring,Network Security Management , Network Traffic Management ,network intrusion detection and anomaly detection.
 
