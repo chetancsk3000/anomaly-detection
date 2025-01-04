@@ -28,8 +28,8 @@ Dataset Usages : This dataset can be used for different machine learning applica
 
 This dataset is highly useful because it consists of 394137 instances of network traffic data obtained by using the 25 applications on a public,private and Enterprise networks.Also,the dataset consists of very important features that can be used for most of the applications of Machine learning in cybersecurity.Here are few of the potential machine learning applications that could be benefited from this dataset are :
 
-Network Performance Monitoring : This large network traffic data set can be utilised for analysing the network traffic to identifying the network patterns in the network .This help in designing the network security algorithms for minimise the network probelms.
+### Network Performance Monitoring : This large network traffic data set can be utilised for analysing the network traffic to identifying the network patterns in the network .This help in designing the network security algorithms for minimise the network probelms.
 
-Anamoly Detection : Large network traffic dataset can be utilised training the machine learning models for finding the irregularitues in the traffic which could help identify the cyber attacks.
+### Anamoly Detection : Large network traffic dataset can be utilised training the machine learning models for finding the irregularitues in the traffic which could help identify the cyber attacks.
 
-3.Network Intrusion Detection : This large dataset could be utilised for machine algorithms training and designing the models for detection of the traffic issues,Malicious traffic network attacks and DOS attacks as well.
+### Network Intrusion Detection : This large dataset could be utilised for machine algorithms training and designing the models for detection of the traffic issues,Malicious traffic network attacks and DOS attacks as well.
